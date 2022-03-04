@@ -1,0 +1,15 @@
+C:\Users\Шах\Desktop\C#\Task15\bin\Debug\net6.0\Task15.exe
+C:\Users\Шах\Desktop\C#\Task15\bin\Debug\net6.0\Task15.deps.json
+C:\Users\Шах\Desktop\C#\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+C:\Users\Шах\Desktop\C#\Task15\bin\Debug\net6.0\Task15.dll
+C:\Users\Шах\Desktop\C#\Task15\bin\Debug\net6.0\Task15.pdb
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\Task15.dll
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\refint\Task15.dll
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\Task15.pdb
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+C:\Users\Шах\Desktop\C#\Task15\obj\Debug\net6.0\ref\Task15.dll
