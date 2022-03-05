@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task19/Task19.csproj": {}
+    "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task21/Task21.csproj": {}
   },
   "projects": {
-    "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task19/Task19.csproj": {
+    "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task21/Task21.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task19/Task19.csproj",
-        "projectName": "Task19",
-        "projectPath": "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task19/Task19.csproj",
+        "projectUniqueName": "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task21/Task21.csproj",
+        "projectName": "Task21",
+        "projectPath": "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task21/Task21.csproj",
         "packagesPath": "/Users/shakh/.nuget/packages/",
-        "outputPath": "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task19/obj/",
+        "outputPath": "/Users/shakh/Desktop/C#/C_Sharp_Lessons/Task21/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shakh/.nuget/NuGet/NuGet.Config"

@@ -22,7 +22,7 @@ bool IsPalindrom(int number, int length)
     for (int i = 1; i <= length / 2; i++)
     {
         // получаем крайние цифры числа number
-        leftDigit = (int)(number / Math.Pow(10, length - i));
+        leftDigit = number / (int)(Math.Pow(10, length - 2 * i + 1));
         rightDigit = number % 10;
         if (leftDigit != rightDigit)
         {
@@ -30,7 +30,7 @@ bool IsPalindrom(int number, int length)
             break;
         }
         // обрезаем наше число слева и справа
-        number = (int)((number % Math.Pow(10, length - i)) / 10);
+        number = number % (int)(Math.Pow(10, length - 2 * i + 1)) / 10;
     }
     return result;
 }
@@ -44,6 +44,7 @@ if (DigitCount(number) == digits)
     {
         Console.WriteLine("да");
     }
+    else
     {
         Console.WriteLine("нет");
     }
